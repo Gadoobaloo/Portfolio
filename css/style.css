@@ -1,0 +1,63 @@
+/* Colors - thanks Coolers
+#0081A7 
+#00AFB9
+#FDFCDC
+#
+#F07167
+*/
+
+body {
+  font-family: "Poppins", sans-serif;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+
+nav {
+  background-color: #0081a7;
+  height: 75px;
+}
+
+nav ul {
+  margin: 0px;
+}
+nav ul li {
+  color: white;
+  margin-right: 16px;
+  list-style: none;
+  float: left;
+}
+
+main {
+  text-align: center;
+}
+
+main h1 {
+  font-size: 3em;
+  margin: 300px;
+}
+
+footer {
+  height: 100px;
+  background-color: #0081a7;
+}
+
+footer p {
+  color: white;
+}
+
+.note {
+  color: #f07167;
+  background-color: #fdfcdc;
+  border: 1px;
+  border-style: solid;
+  border-color: #fed9b7;
+  border-radius: 25px;
+  max-width: 500px;
+  padding: 5px;
+  margin: auto;
+}
+
+.skills-list {
+  text-align: center;
+}
